@@ -1,5 +1,5 @@
 # baseline-blips
-<h2)Baseline Protocol Improvement Proposals</h2>
+##Baseline Protocol Improvement Proposals##
 
 The main Baseline Protocol website is at: https://baseline-protocol.org
 
